@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Alerta-PE</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Teste</string>
+    <string name="nav_header_subtitle">teste@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_sobre">Sobre</string>
+    <string name="title_activity_maps">Alerta-PE</string>
+    <string name="Mapa">Mapa</string>
+    <string name="Previsão">Previsão</string>
+    <string name="Notificações">Notificações</string>
+    <string name="Conscientização">Conscientização</string>
+    <string name="Tábua_de_Marés">Tábua de Marés</string>
+    <string name="Histórico_Pluviométrico">Histórico Pluviométrico</string>
+    <string name="hello_world">hello_world</string>
+    <string name="buscar_coordenadas">Buscar</string>
+    <string name="Buscar_endereco_de_minhas_coordendas">Buscar endereço de minhas coordendas</string>
+    <string name="last_location">Last Location - Location API</string>
+
+
+    Last Location - Location API
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
